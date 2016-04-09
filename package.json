@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Alexander Zeitler <alexander.zeitler@pdmlab.com>",
+  "license": "BSD-3-Clause",
   "dependencies": {
     "express": "^4.13.4"
   }
