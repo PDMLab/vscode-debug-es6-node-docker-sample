@@ -17,9 +17,8 @@
 			"env": {
 				"NODE_ENV": "development"
 			},
-			"externalConsole": false,
-			"sourceMaps": false,
-			"outDir": null
+			"console": "internalConsole",
+			"sourceMaps": false
 		},
 		{
 			"name": "Attach",
@@ -29,7 +28,6 @@
 			"address": "localhost",
 			"restart": false,
 			"sourceMaps": false,
-			"outDir": null,
 			"localRoot": "${workspaceRoot}/",
 			"remoteRoot": "/app/"
 		}
